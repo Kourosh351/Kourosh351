@@ -1,2 +1,1 @@
-i know python and im learning js, css and html
-idk what else to put here...
+i know python ,c# and javascript. and html and css too if you consider thoses a coding language.
